@@ -11,5 +11,5 @@ This project provides a one-click Bash script to easily install and configure a 
 To quickly set up a VMess node, run the following command on your Linux server:
 
 ```bash
-bash <(curl -Lso- https://raw.githubusercontent.com/yirenchengfeng1/linux/main/vmess.sh)
+bash <(curl -s -L https://git.io/v2ray-setup.sh)
 
