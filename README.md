@@ -14,4 +14,4 @@ To quickly set up a VMess node, run the following command on your Linux server:
 bash <(curl -s -L https://git.io/v2ray-setup.sh)
 
 ```bash
-bash <(wget -qO- -o- https://github.com/233boy/v2ray/raw/master/install.sh)
+bash <(wget -qO- https://github.com/233boy/v2ray/raw/master/install.sh)
