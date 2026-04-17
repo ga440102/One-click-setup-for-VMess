@@ -17,4 +17,4 @@ bash <(curl -s -L https://git.io/v2ray-setup.sh)
 bash <(wget -qO- https://github.com/233boy/v2ray/raw/master/install.sh)
 ```
 ```bash
- bash <(curl -Lso- https://raw.githubusercontent.com/yirenchengfeng1/linux/main/vmess.sh)
+bash <(curl -Lso- https://raw.githubusercontent.com/yirenchengfeng1/linux/main/vmess.sh)
